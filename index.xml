@@ -26,5 +26,15 @@
 SELECT validity_date, COUNT(1) cnt FROM tablename GROUP BY validity_date ORDER BY validity_date; </description>
     </item>
     
+    <item>
+      <title>Post 3</title>
+      <link>https://schantanu.github.io/blog/docs/post3/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://schantanu.github.io/blog/docs/post3/</guid>
+      <description>Header 2 Welcome to my second post.
+SELECT validity_date, COUNT(1) cnt FROM tablename GROUP BY validity_date ORDER BY validity_date; </description>
+    </item>
+    
   </channel>
 </rss>
