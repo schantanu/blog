@@ -8,12 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Sep 2023 22:12:44 -0500</lastBuildDate><atom:link href="https://schantanu.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://schantanu.github.io/blog/docs/test/</link>
+      <title>Post 1</title>
+      <link>https://schantanu.github.io/blog/docs/post1/</link>
       <pubDate>Thu, 14 Sep 2023 22:12:44 -0500</pubDate>
       
-      <guid>https://schantanu.github.io/blog/docs/test/</guid>
+      <guid>https://schantanu.github.io/blog/docs/post1/</guid>
       <description>Hello, World! Welcome to my first post.</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>https://schantanu.github.io/blog/docs/post2/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://schantanu.github.io/blog/docs/post2/</guid>
+      <description>Header 1 Welcome to my second post.
+SELECT validity_date, COUNT(1) cnt FROM tablename GROUP BY validity_date ORDER BY validity_date; </description>
     </item>
     
   </channel>
